@@ -7,7 +7,7 @@ Aprendiendo a usar la biblioteca sympy
 - [Página de python](https://www.python.org/)
 - [Página de google](https://www.google.com/)
 - [Página de git hub](https://github.com)
-### Maximizar \(z=x_1+x_2\).
+### Maximizar $$z=x_1+x_2$$.
 
 Sujeto a :
-$$x_1\geq\ 0$$ $$a^2=b^2$$
+$$x_1\geq\ 0$$ 
