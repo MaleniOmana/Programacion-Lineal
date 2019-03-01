@@ -1,6 +1,8 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 ### Página de programación
 ![Región factible](método-simplex-.jpg)
+
+
 En esta pagina voy a mostrar lo que estoy aprendiendo  
 ### Sympy
 Aprendiendo a usar la biblioteca sympy
