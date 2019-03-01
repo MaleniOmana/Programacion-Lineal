@@ -1,4 +1,4 @@
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 ### Página de programación
 En esta pagina voy a mostrar lo que estoy aprendiendo  
 ### Sympy
@@ -10,4 +10,4 @@ Aprendiendo a usar la biblioteca sympy
 ### Maximizar \(z=x_1+x_2\).
 
 Sujeto a :
- \(x_1\geq 0\) $a^2=b^2$
+$$x_1\geq\ 0$$ $$a^2=b^2$$
