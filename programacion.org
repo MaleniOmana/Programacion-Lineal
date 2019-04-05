@@ -1,0 +1,50 @@
+#+title: Programación Lineal
+#+author: Maleni Omaña
+
+#+options: H:2
+
+* Teoría
+** Motivación 
+
+El objetivo de la programación lineal es maximizar funciones lineales
+sobre dominios convexos, es decir, definidos sobre regiones dadas por
+desigualdades.
+
+[[file:region_factible_2.jpg]]
+
+** Ejemplos 
+
+- El problema de la dieta.
+- Optimazación de el gasto en el transporte.
+- Escoger objetos optimos para un campamento.
+- Maximización de un flujo.
+
+** Convexidad
+   Un conjuto \(X\) es *convexo* si para todos
+   \(x,y\in X\) y \(t\in [0,1]\) se tiene que \(tx+(1+t)y\in X\).
+
+** Teoremas de convexidad
+** Método simplex 
+
+* Herramientas computacionales 
+** Emacs 
+   | C-x C-s       | salvar archivo               |
+   | C-x C-f       | abrir archivo                |
+   | M-q           | formatear el parrafo         |
+   | C-x d         | editar directorios           |
+   | C-g           | salir de todo                |
+   | C-x 2         | dividir horizontalmente      |
+   | C-x 3         | dividir verticalmente        |
+   | C-x 1         | regresar a una sola pantalla |
+   | M-w           | copiar la region             |
+   | C-w           | Borrar                       |
+   | Shift-flechas | seleccionar la region        |
+   | C-y           |pegar la region               |
+** Python
+*** Jupyter 
+*** El lenguaje de python
+** LateX
+** Git
+*** Github
+*** Git en la terminal
+
