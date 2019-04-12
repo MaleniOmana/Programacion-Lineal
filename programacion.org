@@ -53,7 +53,8 @@ En el lenguaje python podemos hacer operaciones:
 
 
 
-Tambien podemos usar la biblioteca pulp
+Tambien podemos usar la biblioteca pulp. Por ejemplo, encontramos el
+máximo de \(-4x+y\) sujeto a \(x+y\leq \frac{1}{2}\)
  
 #+begin_src  python :session
 from pulp import *
