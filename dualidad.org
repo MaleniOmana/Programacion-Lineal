@@ -27,3 +27,5 @@ Consideremos el siguiente problema:
 \end{equation*}
 - Siguiente paso
 * Teoremas 
+Demostraremos que el mínimo del problema dual igual al máximo del
+problema primitivo, es decir los dos tiene la misma solución.
